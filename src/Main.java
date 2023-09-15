@@ -7,6 +7,6 @@ public class Main
             double fallCost = 1876.33;
             double winterCost = 4782.98;
             double yearlyCost = springCost + summerCost + fallCost + winterCost;
-            System.out.println("Your yearly maintenance cost is " + springCost + ", " + summerCost + ", " + fallCost + ", " + winterCost + " is " + yearlyCost);
+            System.out.println("Your yearly maintenance cost is " + springCost + " + " + summerCost + " + " + fallCost + " + " + winterCost + " = " + yearlyCost);
     }
 }
